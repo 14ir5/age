@@ -1,0 +1,31 @@
+body{
+    margin:100;
+    background-color:rgb(83, 74, 74)
+    
+}
+ 
+ 
+ h1{
+    color:rgb(163, 24, 42);
+    border-bottom:1px solid rgb(8, 7, 7);
+    }
+    div{
+        border:10px;
+        display:flex;
+        justify-content: space-evenly;
+        
+    }
+    
+button{
+    font-weight:bold;
+    color:brown;
+    padding:20px;
+    max-width:initial;
+    border-radius:40px;
+    border-style: solid;
+    background-color:rgb(12, 189, 42);
+}
+#result{
+    border-color:1px solid black;
+    
+}
